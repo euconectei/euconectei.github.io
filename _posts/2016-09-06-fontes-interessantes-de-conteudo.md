@@ -23,7 +23,7 @@ feature-img: "img/posts/typewriter.jpg"
 
 - [ePanelinha](http://www.e-panelinha.com.br/)
 - [InfoJobs](http://www.infojobs.com.br/)
-- [Vagas](www.vagas.com.br)
+- [Vagas](http://www.vagas.com.br)
 
 ## Sites de Vagas Internacionais
 
