@@ -5,10 +5,10 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: euconectei
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Um site pessoal para divulgação de informações diversas sobre design, frontend (html, css e js)" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -20,14 +20,14 @@ theme_settings:
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: true
+  email_address: "rafaelfms@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "euconectei"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,12 +37,12 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "euconectei"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-17492487-2# Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
