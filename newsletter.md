@@ -4,8 +4,7 @@ title: Newsletter
 permalink: /newsletter/
 ---
 
-Segundo [Wikipedia](https://pt.wikipedia.org/wiki/Boletim_informativo):
-"Boletim informativo (newsletter em inglês) é um tipo de distribuição regular a assinantes e que aborda geralmente um determinado assunto."
+Segundo [Wikipedia](https://pt.wikipedia.org/wiki/Boletim_informativo):  "*Boletim informativo (newsletter em inglês) é um tipo de distribuição regular a assinantes e que aborda geralmente um determinado assunto*."
 
 Neste caso, a newsletter será **semanal** sobre assuntos relacionados a Design, Front-End e Lifestyle.
 
