@@ -6,8 +6,6 @@ feature-img: "img/posts/typewriter.jpg"
 
 Atendendo a pedidos de amigos e alunos, resolvi criar este post com links de onde vejo conteúdos interessantes.
 
-Mais a frente eu vou disponibilizar minha lista de leitura do RSS.
-
 ## Facebook para interação / procurar vagas:
 
 - [FrontEnd VAGAS](https://www.facebook.com/groups/frontendvagas/)
