@@ -1,32 +1,34 @@
 ---
 layout: post
 title: Fontes Interessantes de Conteúdo
+feature-img: "img/posts/typewriter.jpg"
 ---
 
 ## Facebook para interação / procurar vagas:
 
-- https://www.facebook.com/groups/frontendvagas/
-- https://www.facebook.com/groups/WebDesignBR/
-- https://www.facebook.com/groups/frontendrj/
-- https://www.facebook.com/groups/devwebbrasil/
-- https://www.facebook.com/groups/html5.br/
-- https://www.facebook.com/groups/angularjsbrasil/
-- https://www.facebook.com/groups/desenvolvimentowebbrasil/
+- [FrontEnd VAGAS](https://www.facebook.com/groups/frontendvagas/)
+- [Web Design Brasil](https://www.facebook.com/groups/WebDesignBR/)
+- [Front-end - RJ](https://www.facebook.com/groups/frontendrj/)
+- [Desenvolvimento Web Brasil](https://www.facebook.com/groups/devwebbrasil/)
+- [HTML5 BR](https://www.facebook.com/groups/html5.br/)
+- [AngularJS Brasil](https://www.facebook.com/groups/angularjsbrasil/)
+- [Desenvolvimento Web](https://www.facebook.com/groups/desenvolvimentowebbrasil/)
 
 ## Fóruns de Discussão
 
-- http://forum.tableless.com.br/
-- http://stackoverflow.com
+- [Fórum Tableless](http://forum.tableless.com.br/)
+- [Stack Overflow](http://stackoverflow.com)
 
 ## Sites de Vagas Nacionais
 
-- http://www.e-panelinha.com.br/
-- http://www.infojobs.com.br/
+- [ePanelinha](http://www.e-panelinha.com.br/)
+- [InfoJobs](http://www.infojobs.com.br/)
+- [Vagas](www.vagas.com.br)
 
 ## Sites de Vagas Internacionais
 
-- http://sourced.ai/
-- https://www.ziprecruiter.com/
-- https://www.careerbeacon.com/
+- [source{d}](http://sourced.ai/)
+- [ZipRecruiter](https://www.ziprecruiter.com/)
+- [CareerBeacon](https://www.careerbeacon.com/)
 
-Obs.: Este post será atualizado conforme eu for lembrando de mais lugares. :smile:
+Obs.: Este post será atualizado conforme eu for lembrando de mais sites. :smile:
