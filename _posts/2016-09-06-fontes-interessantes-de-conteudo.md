@@ -4,6 +4,10 @@ title: Fontes Interessantes de Conteúdo
 feature-img: "img/posts/typewriter.jpg"
 ---
 
+Atendendo a pedidos de amigos e alunos, resolvi criar este post com links de onde vejo conteúdos interessantes.
+
+Mais a frente eu vou disponibilizar minha lista de leitura do RSS.
+
 ## Facebook para interação / procurar vagas:
 
 - [FrontEnd VAGAS](https://www.facebook.com/groups/frontendvagas/)
@@ -23,7 +27,7 @@ feature-img: "img/posts/typewriter.jpg"
 
 - [ePanelinha](http://www.e-panelinha.com.br/)
 - [InfoJobs](http://www.infojobs.com.br/)
-- [Vagas](www.vagas.com.br)
+- [Vagas](http://www.vagas.com.br)
 
 ## Sites de Vagas Internacionais
 
