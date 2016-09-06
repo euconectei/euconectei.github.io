@@ -15,7 +15,7 @@ theme_settings:
      <p>Escolha sempre o caminho que pareça o melhor, mesmo que seja o mais difícil; o hábito brevemente o tornará fácil e agradável.</p>
 
      <p style="text-align: right;"><small>Pitágoras</small></p>
-  header_text_feature_image:
+  header_text_feature_image: "img/home/praia.jpg"
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
